@@ -1,0 +1,14 @@
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\BLL.dll
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\BLL.pdb
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\AutoMapper.dll
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\DAL.dll
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\EntityFramework.dll
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\DAL.pdb
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\DAL.dll.config
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\AutoMapper.xml
+E:\dotnet\Project_sir_practise\BLL\bin\Debug\EntityFramework.xml
+E:\dotnet\Project_sir_practise\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\dotnet\Project_sir_practise\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\dotnet\Project_sir_practise\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\dotnet\Project_sir_practise\BLL\obj\Debug\BLL.dll
+E:\dotnet\Project_sir_practise\BLL\obj\Debug\BLL.pdb

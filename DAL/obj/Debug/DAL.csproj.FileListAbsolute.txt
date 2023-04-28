@@ -1,0 +1,17 @@
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\DAL.dll.config
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\DAL.dll
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\DAL.pdb
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\EntityFramework.dll
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\EntityFramework.xml
+E:\dotnet\Project_sir_practise\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.dll
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.pdb
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.Migrations.initDB.resources
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.Migrations.TokenDB.resources
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.Migrations.tokenDBok.resources
+E:\dotnet\Project_sir_practise\DAL\obj\Debug\DAL.Migrations.dakg.resources
